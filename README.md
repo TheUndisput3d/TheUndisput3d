@@ -1,125 +1,69 @@
- <div align="center">
-
-# Aayush Pathak
-
-### AI/ML Engineer · LLM Engineer · Agentic AI & LLMOps
-
-**Building intelligent systems that move beyond prototypes into production.**
-
-[![Email](https://img.shields.io/badge/Email-aayushpathak042%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushpathak042@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github)](https://github.com/)
-
-</div>
-
----
-
-## About Me
-
-I'm an **AI/ML Engineer and Researcher** focused on building, fine-tuning, evaluating, and deploying intelligent systems. My work spans large language models, agentic AI, retrieval-augmented generation, speech AI, multimodal learning, and applied machine learning.
-
-I enjoy working across the entire AI lifecycle — from data preparation and model training to retrieval pipelines, agent orchestration, evaluation, inference, and production deployment.
-
-- **LLMs & Generative AI:** Fine-tuning, supervised fine-tuning (SFT), preference optimization (DPO), model evaluation, and training language models from scratch.
-- **Agentic AI:** Tool-using agents, multi-step reasoning workflows, orchestration, and stateful applications with LangGraph.
-- **RAG & RAGOps:** Retrieval pipelines, hybrid search, reranking, grounding, retrieval evaluation, and context optimization.
-- **LLMOps & Production AI:** Model serving, inference APIs, benchmarking, monitoring-oriented workflows, reproducible experiments, and deployment.
-- **Multimodal AI:** Speech recognition, text-to-speech, natural language processing, computer vision, and multimodal models.
-
-I hold a degree in Computer Engineering from Tribhuvan University, Institute of Engineering, Pulchowk Campus, Nepal.
-
-**My engineering philosophy:** build systems that are measurable, reproducible, reliable, and useful beyond a demo.
-
----
-
-## Technical Focus
 
 <div align="center">
 
-| Domain | Technologies & Methods |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:172554,100:312E81&height=180&section=header&text=Aayush%20Pathak&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%7C%20Agentic%20AI%20%7C%20Applied%20Research&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Aayush Pathak — AI/ML Engineer" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-TheUndisput3d-181717?style=flat-square&logo=github)](https://github.com/TheUndisput3d)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushpathak042@gmail.com)
+
+</div>
+
+## About
+
+I'm an AI/ML Engineer and Researcher interested in building intelligent systems that connect model research with real-world applications.
+
+My work spans language model pretraining and fine-tuning, agentic workflows, retrieval-augmented generation, speech technologies, and multimodal AI. I enjoy understanding systems at a deeper level, running experiments, evaluating results, and turning promising ideas into practical software.
+
+**Current interests:** LLMs · Agentic Systems · RAG & RAGOps · Model Training · LLM Evaluation
+
+## Selected Projects
+
+| Project | Focus |
 |---|---|
-| Generative AI | LLMs, Transformers, SFT, DPO, RLHF |
-| Agentic AI | LangGraph, tool calling, workflow orchestration |
-| RAG & RAGOps | Qdrant, hybrid retrieval, reranking, evaluation |
-| Deep Learning | PyTorch, TensorFlow, Hugging Face |
-| NLP & Speech AI | Whisper, NVIDIA NeMo, ASR, TTS |
-| Backend & APIs | Python, FastAPI, SQL |
-| Data Engineering | Apache Spark, Databricks, data pipelines |
-| Deployment & Infrastructure | Docker, cloud platforms, CI/CD |
+| [CiteMind-AI-RAGOps](https://github.com/TheUndisput3d/CiteMind-AI-RAGOps) | Grounded retrieval, citations, and RAG workflows |
+| [VerityLake](https://github.com/TheUndisput3d/VerityLake) | AI/data engineering project |
+| [TraceCause-kit](https://github.com/TheUndisput3d/Tracecause-kit) | Evidence-backed incident investigation and root-cause analysis |
+| [Web-Based-Proctoring](https://github.com/TheUndisput3d/Web-Based-Proctoring) | Computer vision, head-pose estimation, object detection, and face-spoof detection |
 
-</div>
+## Research & Engineering
 
-## Selected Engineering Work
+- **Language models:** Built a 120M-parameter English–Korean decoder-only language model trained on approximately 100B tokens.
+- **LLM adaptation:** Experience with supervised fine-tuning and preference-optimization approaches, including SFT and DPO.
+- **Speech AI:** Developed Korean ASR and TTS workflows using Whisper, NVIDIA NeMo, Coqui TTS, and ESPnet.
+- **Agentic AI:** Interested in tool-using agents, LangGraph orchestration, and reliable multi-step workflows.
+- **Applied ML:** Experience spanning NLP, multimodal systems, forecasting, and computer vision.
 
-### 01 · Language Models & LLM Research
-
-- Built a **120M-parameter bilingual English–Korean decoder-only language model** from scratch.
-- Worked on distributed training, tokenizer and data pipelines, checkpointing, and large-scale token processing.
-- Experimented with model training configurations and language-model development.
-
-**Focus:** pretraining, Transformers, distributed training, language modeling, and evaluation.
-
-### 02 · LLM Fine-Tuning & Educational AI
-
-- Worked with HyperCLOVA X 3B and 14B models for educational and language-learning applications.
-- Applied SFT, DPO, and RLHF-related techniques across model adaptation and evaluation workflows.
-- Developed AI-powered scoring and assessment systems intended to align model outputs with teacher-assigned scores.
-
-**Focus:** fine-tuning, rubric-based evaluation, model reliability, and applied generative AI.
-
-### 03 · Agentic RAG & LLM Applications
-
-- Build retrieval-augmented applications combining language models with external knowledge.
-- Explore stateful agent workflows, tool use, retrieval strategies, and multi-step orchestration.
-- Focus on grounded responses, retrieval quality, and systematic evaluation rather than generation alone.
-
-**Focus:** LangGraph, Qdrant, hybrid retrieval, reranking, RAG evaluation, and production-oriented AI architecture.
-
-### 04 · Speech AI: ASR & TTS
-
-- Developed multilingual speech-recognition workflows using Whisper and NVIDIA NeMo.
-- Achieved **9.89% word error rate (WER)** and **4.24% character error rate (CER)** on a Korean ASR evaluation.
-- Worked on Korean text-to-speech systems using Coqui TTS and ESPnet, with a reported native-speaker evaluation score of **4.0/5**.
-
-**Focus:** speech processing, multilingual models, inference pipelines, and evaluation.
-
-### 05 · Computer Vision & Intelligent Monitoring
-
-- Explore computer-vision systems for real-time analysis and monitoring.
-- Work includes web-based exam proctoring concepts involving custom head-pose estimation, object detection, and face-spoof detection.
-
-**Focus:** computer vision, face analysis, behavioral signals, and applied AI.
-
----
-
-## Engineering Principles
-
-- **Evaluation first:** establish meaningful baselines and measurable success criteria.
-- **Grounded generation:** improve retrieval quality, factuality, and traceability.
-- **Production-minded design:** account for latency, reliability, resource constraints, and failure handling.
-- **Reproducibility:** maintain clear experiments, configurations, and evaluation procedures.
-- **Research into practice:** translate promising ML techniques into usable engineering systems.
-
----
-
-## Currently Exploring
-
-- Advanced agent architectures and tool-using AI systems
-- Production-grade LLMOps and RAGOps
-- LLM evaluation, observability, and inference optimization
-- Efficient fine-tuning and open-weight language models
-- Multimodal AI and trustworthy AI systems
-
----
-
-## Let's Connect
-
-Interested in collaborating on **AI/ML engineering, LLM applications, agentic systems, applied research, and production AI infrastructure**.
-
-- Email: [aayushpathak042@gmail.com](mailto:aayushpathak042@gmail.com)
-- GitHub: [Explore my repositories](https://github.com/)
+## Tech Stack
 
 <div align="center">
 
-*Building practical AI systems through research, experimentation, and engineering.*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheUndisput3d&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=CBD5E1&icon_color=818CF8&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheUndisput3d&layout=compact&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=CBD5E1" alt="Most-used programming languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building, experimenting, and learning — one system at a time.*
 
 </div>
