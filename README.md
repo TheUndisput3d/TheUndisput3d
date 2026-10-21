@@ -1,12 +1,15 @@
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:172554,100:312E81&height=180&section=header&text=Aayush%20Pathak&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%7C%20Agentic%20AI%20%7C%20Applied%20Research&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Aayush Pathak — AI/ML Engineer" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-TheUndisput3d-181717?style=flat-square&logo=github)](https://github.com/TheUndisput3d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-pathak-835547217/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushpathak042@gmail.com)
 
 </div>
+
 
 ## About
 
