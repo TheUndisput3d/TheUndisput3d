@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:172554,100:312E81&height=180&section=header&text=Aayush%20Pathak&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%7C%20Agentic%20AI%20%7C%20Applied%20Research&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Aayush Pathak — AI/ML Engineer" />
@@ -9,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20me-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushpathak042@gmail.com)
 
 </div>
-
 
 ## About
 
@@ -23,6 +20,7 @@ My work spans language model pretraining and fine-tuning, agentic workflows, ret
 
 | Project | Focus |
 |---|---|
+| [mcp-newsletter-studio](https://github.com/TheUndisput3d/mcp-newsletter-studio) | MCP-powered AI newsletter research, drafting, email design, and human review |
 | [CiteMind-AI-RAGOps](https://github.com/TheUndisput3d/CiteMind-AI-RAGOps) | Grounded retrieval, citations, and RAG workflows |
 | [VerityLake](https://github.com/TheUndisput3d/VerityLake) | AI/data engineering project |
 | [TraceCause-kit](https://github.com/TheUndisput3d/Tracecause-kit) | Evidence-backed incident investigation and root-cause analysis |
